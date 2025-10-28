@@ -64,8 +64,8 @@ python main.py
 ## Colaboradores
 
 - Jose Chang
-- María González
-- Pedro Rivera
+- 
+- 
 
 ## Notas
 
