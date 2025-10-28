@@ -33,7 +33,7 @@ git clone https://github.com/<tu-usuario>/proyecto-colaborativo-python.git
 cd proyecto-colaborativo-python
 ```
 
-2. (Opcional) Crear un entorno virtual:
+2. Crear un entorno virtual:
 ```bash
 python -m venv venv
 source venv/bin/activate   # Mac/Linux
@@ -70,4 +70,3 @@ python main.py
 ## Notas
 
 - Cada integrante debe hacer al menos un Pull Request y revisar el código de otros miembros.
-- Puedes editar el README.md para agregar instrucciones específicas de tu equipo.
