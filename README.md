@@ -64,8 +64,8 @@ python main.py
 ## Colaboradores
 
 - Jose Chang
-- 
-- 
+- ABEL MURGAS
+- INDIRA PEREZ
 
 ## Notas
 
