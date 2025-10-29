@@ -66,6 +66,7 @@ python main.py
 - Jose Chang
 - ABEL MURGAS
 - INDIRA PEREZ
+- CRISTIAN PINZON
 
 ## Notas
 
